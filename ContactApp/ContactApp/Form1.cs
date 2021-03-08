@@ -15,9 +15,6 @@ namespace ContactApp
         public Form1()
         {
             InitializeComponent();
-            // hello 
-            // change
-            // change again
         }
     }
 }
